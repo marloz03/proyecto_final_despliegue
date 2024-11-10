@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827426671080602420/56b3e1478a684bd2bc528f6539d47fae/artifacts
+deleted_time: 1731281928888
+end_time: 1731280202134
+entry_point_name: ''
+experiment_id: '827426671080602420'
+lifecycle_stage: deleted
+run_id: 56b3e1478a684bd2bc528f6539d47fae
+run_name: nosy-crab-287
+run_uuid: 56b3e1478a684bd2bc528f6539d47fae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731280202106
+status: 4
+tags: []
+user_id: USER

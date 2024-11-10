@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827426671080602420/df730480876a4ddf8a632d427c1f79a2/artifacts
+deleted_time: 1731281928875
+end_time: 1731280800967
+entry_point_name: ''
+experiment_id: '827426671080602420'
+lifecycle_stage: deleted
+run_id: df730480876a4ddf8a632d427c1f79a2
+run_name: carefree-sponge-148
+run_uuid: df730480876a4ddf8a632d427c1f79a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731280796446
+status: 4
+tags: []
+user_id: USER

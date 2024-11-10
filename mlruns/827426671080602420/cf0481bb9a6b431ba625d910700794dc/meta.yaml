@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827426671080602420/cf0481bb9a6b431ba625d910700794dc/artifacts
+deleted_time: 1731281928885
+end_time: 1731280686839
+entry_point_name: ''
+experiment_id: '827426671080602420'
+lifecycle_stage: deleted
+run_id: cf0481bb9a6b431ba625d910700794dc
+run_name: suave-lynx-482
+run_uuid: cf0481bb9a6b431ba625d910700794dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731280678496
+status: 4
+tags: []
+user_id: USER

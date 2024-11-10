@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/827426671080602420/d48b490a7ae2439f8d531a75d37afbfb/artifacts
+end_time: 1731280901295
+entry_point_name: ''
+experiment_id: '827426671080602420'
+lifecycle_stage: active
+run_id: d48b490a7ae2439f8d531a75d37afbfb
+run_name: efficient-tern-586
+run_uuid: d48b490a7ae2439f8d531a75d37afbfb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731280896540
+status: 3
+tags: []
+user_id: USER

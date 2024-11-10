@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827426671080602420/34888688bd1b4c63afa3fd44371f7029/artifacts
+deleted_time: 1731281928898
+end_time: 1731280136020
+entry_point_name: ''
+experiment_id: '827426671080602420'
+lifecycle_stage: deleted
+run_id: 34888688bd1b4c63afa3fd44371f7029
+run_name: angry-perch-68
+run_uuid: 34888688bd1b4c63afa3fd44371f7029
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731280135987
+status: 4
+tags: []
+user_id: USER

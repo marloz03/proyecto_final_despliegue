@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827426671080602420/8759cc26174341fe9ec062485ca15780/artifacts
+deleted_time: 1731281928901
+end_time: 1731280120374
+entry_point_name: ''
+experiment_id: '827426671080602420'
+lifecycle_stage: deleted
+run_id: 8759cc26174341fe9ec062485ca15780
+run_name: zealous-gnat-515
+run_uuid: 8759cc26174341fe9ec062485ca15780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731280120342
+status: 4
+tags: []
+user_id: USER

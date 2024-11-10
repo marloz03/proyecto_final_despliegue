@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/827426671080602420/e8999e4cdaf7487db354820ae708ee4b/artifacts
+end_time: 1731281070965
+entry_point_name: ''
+experiment_id: '827426671080602420'
+lifecycle_stage: active
+run_id: e8999e4cdaf7487db354820ae708ee4b
+run_name: bouncy-frog-546
+run_uuid: e8999e4cdaf7487db354820ae708ee4b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731281062110
+status: 3
+tags: []
+user_id: USER

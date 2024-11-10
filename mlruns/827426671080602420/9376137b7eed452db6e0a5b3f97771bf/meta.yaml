@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827426671080602420/9376137b7eed452db6e0a5b3f97771bf/artifacts
+deleted_time: 1731281928872
+end_time: 1731280875613
+entry_point_name: ''
+experiment_id: '827426671080602420'
+lifecycle_stage: deleted
+run_id: 9376137b7eed452db6e0a5b3f97771bf
+run_name: bedecked-goat-13
+run_uuid: 9376137b7eed452db6e0a5b3f97771bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731280870729
+status: 4
+tags: []
+user_id: USER

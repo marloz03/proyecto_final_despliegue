@@ -1,0 +1,20 @@
+artifact_path: xgb-model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.17.2
+model_size_bytes: 422093
+model_uuid: 9a3b78b64e4544b8b2b02c4bcb0be12c
+run_id: df730480876a4ddf8a632d427c1f79a2
+utc_time_created: '2024-11-10 23:19:58.495649'

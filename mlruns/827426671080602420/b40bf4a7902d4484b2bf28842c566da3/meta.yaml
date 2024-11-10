@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827426671080602420/b40bf4a7902d4484b2bf28842c566da3/artifacts
+deleted_time: 1731281928891
+end_time: 1731280179951
+entry_point_name: ''
+experiment_id: '827426671080602420'
+lifecycle_stage: deleted
+run_id: b40bf4a7902d4484b2bf28842c566da3
+run_name: industrious-ape-426
+run_uuid: b40bf4a7902d4484b2bf28842c566da3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731280179921
+status: 4
+tags: []
+user_id: USER
