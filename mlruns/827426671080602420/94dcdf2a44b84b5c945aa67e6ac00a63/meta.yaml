@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827426671080602420/94dcdf2a44b84b5c945aa67e6ac00a63/artifacts
+deleted_time: 1731293498754
+end_time: 1731292554035
+entry_point_name: ''
+experiment_id: '827426671080602420'
+lifecycle_stage: deleted
+run_id: 94dcdf2a44b84b5c945aa67e6ac00a63
+run_name: unleashed-moose-879
+run_uuid: 94dcdf2a44b84b5c945aa67e6ac00a63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731292548919
+status: 3
+tags: []
+user_id: USER

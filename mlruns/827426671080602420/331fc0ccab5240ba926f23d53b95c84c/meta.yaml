@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/827426671080602420/331fc0ccab5240ba926f23d53b95c84c/artifacts
+end_time: 1731293511478
+entry_point_name: ''
+experiment_id: '827426671080602420'
+lifecycle_stage: active
+run_id: 331fc0ccab5240ba926f23d53b95c84c
+run_name: inquisitive-lynx-109
+run_uuid: 331fc0ccab5240ba926f23d53b95c84c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731293506692
+status: 3
+tags: []
+user_id: USER

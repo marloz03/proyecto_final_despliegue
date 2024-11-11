@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/827426671080602420/0f463d18117d4b9da1ec5f6c285a879f/artifacts
+end_time: 1731293643834
+entry_point_name: ''
+experiment_id: '827426671080602420'
+lifecycle_stage: active
+run_id: 0f463d18117d4b9da1ec5f6c285a879f
+run_name: rogue-dog-116
+run_uuid: 0f463d18117d4b9da1ec5f6c285a879f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731293526071
+status: 3
+tags: []
+user_id: USER

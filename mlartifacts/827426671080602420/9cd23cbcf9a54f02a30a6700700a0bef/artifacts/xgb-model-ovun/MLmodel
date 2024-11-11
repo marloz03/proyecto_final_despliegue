@@ -1,0 +1,20 @@
+artifact_path: xgb-model-ovun
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.17.2
+model_size_bytes: 7803570
+model_uuid: 5481187779574266bd75f13e58030dac
+run_id: 9cd23cbcf9a54f02a30a6700700a0bef
+utc_time_created: '2024-11-11 02:52:02.645034'

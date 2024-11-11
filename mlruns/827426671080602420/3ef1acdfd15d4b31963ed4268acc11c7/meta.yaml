@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/827426671080602420/3ef1acdfd15d4b31963ed4268acc11c7/artifacts
+deleted_time: 1731292834411
 end_time: 1731281748615
 entry_point_name: ''
 experiment_id: '827426671080602420'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 3ef1acdfd15d4b31963ed4268acc11c7
 run_name: colorful-auk-207
 run_uuid: 3ef1acdfd15d4b31963ed4268acc11c7

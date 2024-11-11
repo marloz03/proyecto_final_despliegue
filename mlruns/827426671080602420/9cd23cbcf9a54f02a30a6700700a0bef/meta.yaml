@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/827426671080602420/9cd23cbcf9a54f02a30a6700700a0bef/artifacts
+end_time: 1731293525664
+entry_point_name: ''
+experiment_id: '827426671080602420'
+lifecycle_stage: active
+run_id: 9cd23cbcf9a54f02a30a6700700a0bef
+run_name: awesome-croc-794
+run_uuid: 9cd23cbcf9a54f02a30a6700700a0bef
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731293511751
+status: 3
+tags: []
+user_id: USER

@@ -1,8 +1,9 @@
 artifact_uri: mlflow-artifacts:/827426671080602420/e8999e4cdaf7487db354820ae708ee4b/artifacts
+deleted_time: 1731292834411
 end_time: 1731281070965
 entry_point_name: ''
 experiment_id: '827426671080602420'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: e8999e4cdaf7487db354820ae708ee4b
 run_name: bouncy-frog-546
 run_uuid: e8999e4cdaf7487db354820ae708ee4b

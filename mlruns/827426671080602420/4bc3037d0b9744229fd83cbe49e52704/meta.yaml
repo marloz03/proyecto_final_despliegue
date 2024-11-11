@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827426671080602420/4bc3037d0b9744229fd83cbe49e52704/artifacts
+deleted_time: 1731293498755
+end_time: 1731292562845
+entry_point_name: ''
+experiment_id: '827426671080602420'
+lifecycle_stage: deleted
+run_id: 4bc3037d0b9744229fd83cbe49e52704
+run_name: victorious-doe-278
+run_uuid: 4bc3037d0b9744229fd83cbe49e52704
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731292554314
+status: 3
+tags: []
+user_id: USER

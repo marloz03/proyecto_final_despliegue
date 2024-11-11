@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/827426671080602420/7e2037abfd874b4bbc21e076dace2746/artifacts
+deleted_time: 1731293498755
+end_time: 1731292672168
+entry_point_name: ''
+experiment_id: '827426671080602420'
+lifecycle_stage: deleted
+run_id: 7e2037abfd874b4bbc21e076dace2746
+run_name: youthful-calf-288
+run_uuid: 7e2037abfd874b4bbc21e076dace2746
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731292563105
+status: 3
+tags: []
+user_id: USER
