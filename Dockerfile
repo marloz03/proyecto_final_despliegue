@@ -19,4 +19,4 @@ USER dash-user
 EXPOSE 8050
 
 # Comandos a ejecutar al correr el contenedor 
-CMD ["python", "app.py"]
+CMD ["python", "app_tablero.py"]
