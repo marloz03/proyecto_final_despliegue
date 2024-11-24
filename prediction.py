@@ -4,17 +4,11 @@ import joblib
 from sklearn.preprocessing import OneHotEncoder
 import os
 
-
-def load_data(file_path):
-    """Load the CSV data into a DataFrame."""
-    return pd.read_csv(file_path)
-
-
 def preprocess_data(df, encoder_path, target_encoder):
     """Preprocess the data for prediction."""
     # Convert datetime columns
     df['trans_date_trans_time'] = pd.to_datetime(df['trans_date_trans_time'])
-    df['dob'] = pd.to_datetime(df['dob'], format='%d/%m/%Y')
+    df['dob'] = pd.to_datetime(df['dob'], format='%m/%d/%Y')
 
     # Calculate derived columns
     df['distancia_euclidiana'] = np.sqrt(
@@ -74,20 +68,19 @@ def save_predictions(original_df, predictions, probabilities, output_path):
         )
     )
 
-    original_df.to_csv(output_path, index=False)
+    original_df = original_df.loc[~(original_df['id'].isna()), :]
+    return original_df
 
 
 
-def main():
+def realizar_prediccion(df):
     # File paths
-    input_file = "datos/fraud test.csv"
     encoder_path = "models/onehot_encoder.joblib"
     target_encoder = 'models/category_target_mean.joblib'
     model_path = "models/xgb_v2.joblib"
     output_file = "predictions/predictions.csv"
 
     # Load and preprocess data
-    df = load_data(input_file)
     df_selected = preprocess_data(df, encoder_path, target_encoder)
 
     # Load the model
@@ -97,11 +90,14 @@ def main():
     predictions, probabilities = make_predictions(df_selected, model)
 
     # Save predictions to a file
-    save_predictions(df, predictions, probabilities, output_file)
+    df_predicciones = save_predictions(df, predictions, probabilities, output_file)
+
+    return df_predicciones
 
 
 if __name__ == "__main__":
-    main()
+    df = pd.read_csv("datos/fraud test.csv")
+    realizar_prediccion(df)
 
 
 
