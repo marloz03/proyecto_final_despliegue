@@ -14,6 +14,7 @@ from prediction import realizar_prediccion
 
 # Inicializar la aplicación
 app = Dash(__name__)
+server = app.server
 
 # Dataset base
 df = pd.read_csv('datos/sample_input.csv', parse_dates=['trans_date_trans_time'], low_memory=False)
