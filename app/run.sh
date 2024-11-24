@@ -1,0 +1,1 @@
+gunicorn app_tablero:server -b :$PORT --timeout 600
