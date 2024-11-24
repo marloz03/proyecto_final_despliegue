@@ -239,7 +239,7 @@ def process_input_file(contents, filename, state, category, month):
     return 'Por favor, sube un archivo CSV para procesar.', px.bar(), [], []
 
 if __name__ == '__main__':
-    app.run_server(debug=True, port=8010)
+    app.run_server(debug=True)
 
 
 # In[ ]:
