@@ -11,8 +11,6 @@ ADD ./app /opt/app/
 RUN pip install --upgrade pip
 RUN pip install -r /opt/app/requirements.txt
 
-# Hacer el directorio de trabajo ejecutable 
-RUN chmod +x /opt/app/app.py
 # Cambiar propiedad de la carpeta a dash-user 
 RUN chown -R dash-user:dash-user ./
 
